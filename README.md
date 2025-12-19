@@ -30,6 +30,6 @@ This project demonstrates best practices in test automation including:
 ### Installation
 
 ```bash
-git clone <repository-url>
+git clone
 cd Automation_Task
 npm install
